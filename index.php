@@ -335,7 +335,7 @@ crossorigin="anonymous"></script>
 			scrollToBottom();
 		}, 50);
 
-			var lastMessageId = 0; // Initialize the lastMessageId  : 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
+			var lastMessageId = 0; 
 
 			loadMessages();
 

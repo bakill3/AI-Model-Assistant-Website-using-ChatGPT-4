@@ -50,7 +50,7 @@ if (isset($_POST['message']) && !empty(trim($_POST['message']))) {
         "presence_penalty" => 0.0
     )),
       CURLOPT_HTTPHEADER => array(
-        'Authorization: Bearer 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',
+        'Authorization: Bearer [OPEN-AI-API-KEY]',
         'Content-Type: application/json'
     ),
   ));

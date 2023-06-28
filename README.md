@@ -1,4 +1,4 @@
-# **Project Title: User-Centric Chatbot Platform**
+# **User-Centric Chatbot Platform**
 
 This repository houses a unique project that harnesses the power of **HTML, CSS, JavaScript (including jQuery & AJAX), PHP, Bootstrap 4**, and **OpenAI's ChatGPT-4**. The project aims to provide a robust user authentication system allowing users to create accounts, log in, and interact with diverse AI chatbot models in real time.
 

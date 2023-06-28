@@ -1,5 +1,7 @@
 # **User-Centric Chatbot Platform**
 
+![AI-Model-Assistant-Website-using-ChatGPT-4](https://socialify.git.ci/bakill3/AI-Model-Assistant-Website-using-ChatGPT-4/image?font=Raleway&language=1&name=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Light)
+
 This repository houses a unique project that harnesses the power of **HTML, CSS, JavaScript (including jQuery & AJAX), PHP, Bootstrap 4**, and **OpenAI's ChatGPT-4**. The project aims to provide a robust user authentication system allowing users to create accounts, log in, and interact with diverse AI chatbot models in real time.
 
 ## **Project Overview**
